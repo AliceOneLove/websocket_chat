@@ -1,0 +1,7 @@
+.App {
+  display: grid;
+  grid-template-columns: 1fr 0.875fr 0.05fr 0.875fr 1fr;
+  grid-template-rows: 1fr;
+  height: 100vh;
+  width: 100vw;
+}
